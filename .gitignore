@@ -1,0 +1,5 @@
+dynamic_n_div_thread_omp_sin_sum
+dynamic_omp_sin_sum
+guided_omp_sin_sum
+static_1_omp_sin_sum
+static_omp_sin_sum
