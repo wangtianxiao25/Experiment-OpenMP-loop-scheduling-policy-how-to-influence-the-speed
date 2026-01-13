@@ -3,3 +3,6 @@ dynamic_omp_sin_sum
 guided_omp_sin_sum
 static_1_omp_sin_sum
 static_omp_sin_sum
+
+omp_trap3
+serial_trap3
