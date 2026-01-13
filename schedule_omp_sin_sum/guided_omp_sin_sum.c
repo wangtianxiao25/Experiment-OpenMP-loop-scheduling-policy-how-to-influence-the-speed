@@ -16,7 +16,7 @@ double f(int i) {
 int main(int argc, char* argv[]) {
     int threads_num = strtol(argv[1], NULL, 10);
     int n, i;
-    n = strtol(argv[2], NULL, 10);
+    n = strtol(argv[2], NULL, 101);
     double start_time, end_time;
 
     start_time = omp_get_wtime();
